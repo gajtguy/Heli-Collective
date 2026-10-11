@@ -30,9 +30,16 @@ Basic Helicopter Collective using Freejoy &amp; STM32 controllers. Remake from D
 
 | Part | Qty | Notes |
 |------|-----|-------|
-| [part-name.stl] | 1 | [e.g. Print with supports] |
-| [part-name.stl] | 2 | [e.g. No supports needed] |
-| [part-name.stl] | 4 | [e.g. Print flat side down] |
+| [base.stl] | 1 | [No supports needed] |
+| [main_lever.stl] | 1 | [Supports ARE needed] |
+| [wire_clip.stl] | 1 | [No supports needed] |
+| [breakshoe.stl] | 1 | [No supports needed] |
+| [tension_knob.stl] | 1 | [No supports needed] |
+| [knob_filler.stl] | 1 | [No supports needed] |
+| [pcb_cover.stl] | 1 | [No supports needed] |
+| [tube_switch.stl] | 1 | [Supports ARE needed] |
+| [throttle_cap.stl] | 1 | [No supports needed] |
+| [.stl] | 1 | [No supports needed] |
 
 ## Print Settings
 
