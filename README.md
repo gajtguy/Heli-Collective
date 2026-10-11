@@ -12,7 +12,7 @@ Basic Helicopter Collective using Freejoy &amp; STM32 controllers. Remake from D
 
 ## Features - Pretty much every part was remade in Fusion 360, for these reasons
 
-- MainLever accepts the tube I used. Found at lowes.
+- MainLever accepts the tube I used. Found at Home Depot. Called a Wal-Board Alum Handle (48ALUMBW)
 - Base now includes an area for the STM32 controller and no wires are visible.
   - Using Freejoy firmware.
 - The Throttle has an internal linear Pot (minimal head design)
