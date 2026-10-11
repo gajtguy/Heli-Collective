@@ -12,9 +12,9 @@ Basic Helicopter Collective using Freejoy &amp; STM32 controllers. Remake from D
 
 ## Features - Pretty much every part was remade in Fusion 360, for these reasons
 
-- [MainLever accepts the tube I used. Found at lowes.]
-- [Base now includes an area for the STM32 controller.] 
-- [The Throttle has an internal linear Pot (minimal head design)]
+- MainLever accepts the tube I used. Found at lowes.
+- Base now includes an area for the STM32 controller and no wires are visible.
+- The Throttle has an internal linear Pot (minimal head design)
 
 ## What's in This Repository
 
