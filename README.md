@@ -14,6 +14,7 @@ Basic Helicopter Collective using Freejoy &amp; STM32 controllers. Remake from D
 
 - MainLever accepts the tube I used. Found at lowes.
 - Base now includes an area for the STM32 controller and no wires are visible.
+ - Using Freejoy firmware.
 - The Throttle has an internal linear Pot (minimal head design)
 
 ## What's in This Repository
