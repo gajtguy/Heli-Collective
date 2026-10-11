@@ -1,7 +1,6 @@
 # Heli-Collective
 Basic Helicopter Collective using Freejoy &amp; STM32 controllers. Remake from DIY Helicopter Collective Hall Effect by Gazmac52 on Thingiverse: https://www.thingiverse.com/thing:5226353
 
-
 ![Collective Overall](Images/Collective_Overall.JPG)
 
 ![Collective Base](Images/Collective_Base.JPG)
@@ -11,11 +10,11 @@ Basic Helicopter Collective using Freejoy &amp; STM32 controllers. Remake from D
 
 ---
 
-## Features
+## Features - Pretty much every part was remade in Fusion 360, for these reasons
 
-- [Feature one]
-- [Feature two]
-- [Feature three]
+- [MainLever accepts the tube I used. Found at lowes.]
+- [Base now includes an area for the STM32 controller.] 
+- [The Throttle has an internal linear Pot (minimal head design)]
 
 ## What's in This Repository
 
