@@ -1,9 +1,9 @@
 # Heli-Collective
 Basic Helicopter Collective using Freejoy &amp; STM32 controllers. Remake from DIY Helicopter Collective Hall Effect by Gazmac52 on Thingiverse: https://www.thingiverse.com/thing:5226353
 
-![Collective Overall](Images/Collective_Overall.JPG)
+![Collective Overall](Images/Collective_Overall(sm).JPG)
 
-![Collective Base](Images/Collective_Base.JPG)
+![Collective Base](Images/Collective_Base(sm).JPG)
 
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
