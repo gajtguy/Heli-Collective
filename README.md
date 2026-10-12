@@ -30,17 +30,17 @@ Basic Helicopter Collective using Freejoy &amp; STM32 controllers. Remake from D
 
 | Part | Qty | Notes |
 |------|-----|-------|
-| [base.stl] | 1 |  |
-| [main_lever.stl] | 1 | Supports ARE needed |
-| [axle.stl] | 1 |  |
-| [wire_clip.stl] | 1 |  |
-| [breakshoe.stl] | 1 |  |
-| [tension_knob.stl] | 1 |  |
-| [knob_filler.stl] | 1 |  |
-| [pcb_cover.stl] | 1 |  |
-| [tube_switch.stl] | 1 | Supports ARE needed |
-| [throttle_cap.stl] | 1 |  |
-| [grip.stl] | 1 | Adjust Negative cylinder in slicer to match pipe diameter |
+| base.stl | 1 |  |
+| main_lever.stl | 1 | Supports ARE needed |
+| axle.stl | 1 |  |
+| wire_clip.stl | 1 |  |
+| breakshoe.stl | 1 |  |
+| tension_knob.stl | 1 |  |
+| knob_filler.stl | 1 |  |
+| pcb_cover.stl | 1 |  |
+| tube_switch.stl | 1 | Supports ARE needed |
+| throttle_cap.stl | 1 |  |
+| grip.stl | 1 | Adjust Negative cylinder in slicer to match pipe diameter |
 
 ## Print Settings
 
