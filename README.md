@@ -32,6 +32,7 @@ Basic Helicopter Collective using Freejoy &amp; STM32 controllers. Remake from D
 |------|-----|-------|
 | [base.stl] | 1 |  |
 | [main_lever.stl] | 1 | Supports ARE needed |
+| [axle.stl] | 1 |  |
 | [wire_clip.stl] | 1 |  |
 | [breakshoe.stl] | 1 |  |
 | [tension_knob.stl] | 1 |  |
@@ -39,20 +40,20 @@ Basic Helicopter Collective using Freejoy &amp; STM32 controllers. Remake from D
 | [pcb_cover.stl] | 1 |  |
 | [tube_switch.stl] | 1 | Supports ARE needed |
 | [throttle_cap.stl] | 1 |  |
-| [.stl] | 1 |  |
+| [grip.stl] | 1 | Adjust Negative cylinder in slicer to match pipe diameter |
 
 ## Print Settings
 
 | Setting | Recommended |
 |---------|-------------|
-| Material | [PLA / PETG / ABS] |
-| Layer height | [0.2 mm] |
-| Infill | [20%] |
-| Walls / perimeters | [3] |
-| Supports | [Yes / No / Only for specific parts] |
-| Nozzle | [0.4 mm] |
+| Material | PLA |
+| Layer height | 0.2 mm |
+| Infill | 20% |
+| Walls / perimeters | 2 |
+| Supports | Only for specific parts |
+| Nozzle | 0.4 mm |
 
-Tested on: [your printer model]
+Tested on: Snapmaker U1
 
 ## Hardware Needed
 
