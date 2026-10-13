@@ -22,7 +22,7 @@ Basic Helicopter Collective using Freejoy &amp; STM32 controllers. Remake from D
 | Folder | Contents |
 |--------|----------|
 | `stl/` | Ready-to-print STL files |
-| `step/` | STEP source files for remixing |
+| `fusion360/` | source files for remixing |
 | `images/` | Photos and assembly pictures |
 | `docs/` | Assembly instructions and drawings |
 
